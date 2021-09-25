@@ -16,7 +16,10 @@ scoreboard to play multiple times as a tournament
 - Fullscreen mode
 - Only Potrait mode
 
-  
+## Programming Language
+
+Kotlin
+
 ## Screenshots
 
 ![App Screenshot 1](https://drive.google.com/uc?export=view&id=1UORxejSl-jWxSbJg76Ig3geXr4HUa86N)
@@ -24,8 +27,6 @@ scoreboard to play multiple times as a tournament
 ![App Screenshot 3](https://drive.google.com/uc?export=view&id=1nCI1WAk3606D3yr2L6Gh3pCS5n9kjGfB)
 ![App Screenshot 4](https://drive.google.com/uc?export=view&id=1qQr5KNeI_-k198VJSn0xAcxzuI2WQ5yq)
   
-## Programming Language
 
-Kotlin
 
   
